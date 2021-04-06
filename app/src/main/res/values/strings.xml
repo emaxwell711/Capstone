@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">User Study Fall 2019</string>
+    <string name="participantPrompt">Enter Participant Number:</string>
+    <string name="blankSpace" />
+    <string name="begin">Begin</string>
+    <string name="touch_graphs">Touchscreen Session</string>
+    <string name="touch_training">Touchscreen Training</string>
+    <string name="emboss_graph">Embossed Session</string>
+    <string name="emboss_training">Embossed Training</string>
+    <string name="switchSlide">Switch</string>
+    <string name="popularity">Popularity</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="share">Share</string>
+    <string name="enable_clicking">Enable clicking</string>
+    <string name="enable_clicking2">Enable Clicking Sound</string>
+    <string name="fast_speed">Fast Speed</string>
+    <string name="training">Training</string>
+    <string name="group1">Group 1</string>
+    <string name="group2">Group 2</string>
+    <string name="group3">Group 3</string>
+</resources>
